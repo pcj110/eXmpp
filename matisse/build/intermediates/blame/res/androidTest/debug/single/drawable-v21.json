@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/lx/Downloads/XmppTest/matisse/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/lx/.android/build-cache/e1903fd605dcc7c32829729b0badb7b6b730b5d3/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/lx/Downloads/eXmpp/matisse/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/lx/.android/build-cache/e1903fd605dcc7c32829729b0badb7b6b730b5d3/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/lx/Downloads/XmppTest/matisse/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/lx/.android/build-cache/e1903fd605dcc7c32829729b0badb7b6b730b5d3/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/lx/Downloads/XmppTest/matisse/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/lx/.android/build-cache/e1903fd605dcc7c32829729b0badb7b6b730b5d3/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/lx/Downloads/eXmpp/matisse/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/lx/.android/build-cache/e1903fd605dcc7c32829729b0badb7b6b730b5d3/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/lx/Downloads/eXmpp/matisse/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/lx/.android/build-cache/e1903fd605dcc7c32829729b0badb7b6b730b5d3/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

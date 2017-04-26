@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/lx/Downloads/eXmpp/matisse/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/lx/.android/build-cache/e1903fd605dcc7c32829729b0badb7b6b730b5d3/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/lx/Downloads/eXmpp/matisse/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/lx/.android/build-cache/e1903fd605dcc7c32829729b0badb7b6b730b5d3/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/lx/Downloads/XmppTest/matisse/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/lx/.android/build-cache/e1903fd605dcc7c32829729b0badb7b6b730b5d3/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/lx/Downloads/XmppTest/matisse/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/lx/.android/build-cache/e1903fd605dcc7c32829729b0badb7b6b730b5d3/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

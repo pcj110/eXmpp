@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/lx/Downloads/XmppTest/matisse/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/lx/.android/build-cache/e1903fd605dcc7c32829729b0badb7b6b730b5d3/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/lx/Downloads/XmppTest/matisse/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/lx/.android/build-cache/e1903fd605dcc7c32829729b0badb7b6b730b5d3/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/lx/Downloads/XmppTest/matisse/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/lx/.android/build-cache/e1903fd605dcc7c32829729b0badb7b6b730b5d3/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/lx/Downloads/XmppTest/matisse/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/lx/.android/build-cache/e1903fd605dcc7c32829729b0badb7b6b730b5d3/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/lx/Downloads/XmppTest/matisse/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/lx/.android/build-cache/e1903fd605dcc7c32829729b0badb7b6b730b5d3/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/lx/Downloads/XmppTest/matisse/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/lx/.android/build-cache/e1903fd605dcc7c32829729b0badb7b6b730b5d3/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/lx/Downloads/XmppTest/matisse/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/lx/.android/build-cache/e1903fd605dcc7c32829729b0badb7b6b730b5d3/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/lx/Downloads/XmppTest/matisse/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/lx/.android/build-cache/e1903fd605dcc7c32829729b0badb7b6b730b5d3/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/lx/Downloads/XmppTest/matisse/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/lx/.android/build-cache/e1903fd605dcc7c32829729b0badb7b6b730b5d3/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/lx/Downloads/XmppTest/matisse/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/lx/.android/build-cache/e1903fd605dcc7c32829729b0badb7b6b730b5d3/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    }
+]
