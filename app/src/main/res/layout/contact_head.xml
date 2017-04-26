@@ -1,0 +1,100 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialogRootLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:paddingRight="20dp"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/newfriend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/list_divider">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/avatar"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_person_add_black_24dp"
+            android:layout_margin="5dp"/>
+
+        <TextView
+            android:id="@+id/userName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/avatar"
+            android:ellipsize="end"
+            android:textColor="@color/black"
+            android:textSize="17sp"
+            android:text="新朋友"
+            android:includeFontPadding="false"
+            android:maxLines="1"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:visibility="gone"
+        android:id="@+id/dialogContainer1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/list_divider">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/avatar"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_person_add_black_24dp"
+            android:layout_margin="5dp"/>
+
+        <TextView
+            android:id="@+id/userName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/avatar"
+            android:ellipsize="end"
+            android:textColor="@color/black"
+            android:textSize="17sp"
+            android:text="新朋友"
+            android:includeFontPadding="false"
+            android:maxLines="1"/>
+
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/dialogContainer2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/list_divider">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/avatar"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_group_black_24dp"
+            android:layout_margin="5dp"/>
+
+        <TextView
+            android:id="@+id/userName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/avatar"
+            android:ellipsize="end"
+            android:textColor="@color/black"
+            android:textSize="17sp"
+            android:text="开始群聊"
+            android:includeFontPadding="false"
+            android:maxLines="1"/>
+
+
+    </RelativeLayout>
+
+</LinearLayout>

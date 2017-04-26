@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context="com.cn.lx.ui.activity.CropActivity">
+   <include layout="@layout/comm_toolbar"/>
+
+   <com.steelkiwi.cropiwa.CropIwaView
+       android:id="@+id/crop_view"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       app:ci_dynamic_aspect_ratio="false" />
+</LinearLayout>
